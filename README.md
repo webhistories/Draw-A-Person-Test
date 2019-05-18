@@ -8,3 +8,4 @@
  The researchers used the ShortStraw, a corner detection algorithm to utilize the examinee’s stroke’s curvature in drawing to split drawn strokes into primitive building blocks such as lines or arcs. These strokes are then to be recognized into a set of building block shapes or forms.
 
 Journal Paper: http://tiny.cc/DAPTest
+![](app.gif)
