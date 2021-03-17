@@ -5,7 +5,10 @@
  
  The DAP test mobile application that the researchers developed is specifically targeted for children aged 5 below, wherein they are asked to draw a human figure. The system will then, go through the scoring checklist for Goodenough’s test from the University of Washington and assess the drawing made by the examinee. The DAP test system will determine the mental age equivalents of the scores from the examinees. Measuring an individual’s mental attainment based on age, aids in the calculation of IQ (Intelligence Quotient) to help determine if the child could potentially have intellectual disabilities or to measure the child’s intellectual potential. 
  
- The researchers used the ShortStraw, a corner detection algorithm to utilize the examinee’s stroke’s curvature in drawing to split drawn strokes into primitive building blocks such as lines or arcs. These strokes are then to be recognized into a set of building block shapes or forms.
-
-Journal Paper: http://tiny.cc/DAPTest
+ The researchers used the ShortStraw, a corner detection algorithm to utilize the examinee’s stroke’s curvature in drawing to split drawn strokes into primitive building blocks such as lines or arcs. These strokes are then to be recognized into a set of building block shapes or forms.<br>
 ![](app.gif)
+<br>[Journal Paper](http://tiny.cc/DAPTest) 🗒️
+<br>Pamantasan ng Lungsod ng Maynila 🏫
+<br>Bachelor of Science in Computer Studies major in Computer Science 💻
+<br>Beatriz Jude Lorzano 👧
+<br>2015-02717 📖
